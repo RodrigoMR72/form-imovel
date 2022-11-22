@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+.label {
+    display: block;
+}
+
+#bsubmit {
+    margin-top: 15px;
+    background-color: rgba(0, 0, 255, 0.47);
+    color: white;
+    border-color: blue;
+}
+
+#breset {
+    background-color: black;
+    color: white;
+}
+form {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    background: rgb(226, 220, 220);
+    width: 80%;
+    margin: auto;
+
+}
